@@ -1,3 +1,9 @@
+Responder: ¿cuánto se ahorró y por qué el ahorro es pequeño en esta aplicación?
+por que en proyectos grandes son muchos recursos que se van a cargar, por lo que en un proyecto chico como este no se nota tanto el cambio. 
+
+Responder: ¿cuándo conviene un contexto y cuándo un store?
+yo digo que conviene un contexto cuando es algo "sencillo" por asi decir, osea que no va a guardar mucho, y el store es para que primero obtenga la información guardada para su uso
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
